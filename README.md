@@ -7,3 +7,16 @@ Ruiz J., Mahmud M., Modasshir M., Shamim Kaiser M., Alzheimer’s Disease Neuroi
 "3D DenseNet Ensemble in 4-Way Classification of Alzheimer’s Disease", <br/>
  Brain Informatics. BI 2020. 
 ](https://doi.org/10.1007/978-3-030-59277-6_8)
+
+## Dependencies
+Developed using CUDA 10.1 with cudnn 8.0.2
+- [CUDA 10.1](https://developer.nvidia.com/cuda-10.1-download-archive-update2)
+- [cudnn 8.0.2](https://developer.nvidia.com/rdp/cudnn-download)
+### Libraries
+- pytorch 1.6.0
+- nibabel 3.1.1
+- GitPython 3.1.7
+- kaggle 1.5.8
+- pandas 1.1.0
+- numpy 1.19.1
+- matplotlib 3.3.1
