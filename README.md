@@ -1,1 +1,1 @@
-# 3D-Densenet-Alzheimer
+# 3D Densenet in 4-way Classification of Alzheimer's Disease
