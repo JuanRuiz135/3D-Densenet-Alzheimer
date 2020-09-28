@@ -14,7 +14,20 @@ The dataset and the model weights can be downloaded from this [drive](https://dr
 Both NiFTiFiles and model_weights folders have to be on the same folder as the python code.
 <br/>
 ### Folder structure
-
+    .
+    ├── ...
+    ├── cnn_interpretability        
+    │   └── utils.py
+    ├── model_weights           
+    │   ├── classifier1_weights.pth         
+    │   ├── classifier2_weights.pth    
+    │   └── classifier3_weights.pth
+    ├── NiFTiFiles 
+    │   └── all the .nii files ...
+    ├── model1.py
+    ├── model2.py
+    ├── model3.py
+    └── ensemble.py
 ## Dependencies
 Developed using CUDA 10.1 with cudnn 8.0.2
 - [CUDA 10.1](https://developer.nvidia.com/cuda-10.1-download-archive-update2)
