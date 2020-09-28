@@ -8,10 +8,12 @@ Ruiz J., Mahmud M., Modasshir M., Shamim Kaiser M., Alzheimer’s Disease Neuroi
  Brain Informatics. BI 2020. 
 ](https://doi.org/10.1007/978-3-030-59277-6_8)
 
-## Dataset
-Dataset can be downloaded from this [drive](https://drive.google.com/drive/folders/12WrBiJb0qZ-u75nZACgbRLx_4HYIvYS8?usp=sharing).
+## Dataset and weights
+The dataset and the model weights can be downloaded from this [drive](https://drive.google.com/drive/folders/12WrBiJb0qZ-u75nZACgbRLx_4HYIvYS8?usp=sharing).
 <br/>
-The folder NiFTiFiles has to be on the same folder as the python code.
+Both NiFTiFiles and model_weights folders have to be on the same folder as the python code.
+<br/>
+### Folder structure
 
 ## Dependencies
 Developed using CUDA 10.1 with cudnn 8.0.2
