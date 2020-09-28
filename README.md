@@ -25,3 +25,4 @@ Developed using CUDA 10.1 with cudnn 8.0.2
 - pandas 1.1.0
 - numpy 1.19.1
 - matplotlib 3.3.1
+- The utils.py file was taken from this Github https://github.com/jrieke/cnn-interpretability. 
