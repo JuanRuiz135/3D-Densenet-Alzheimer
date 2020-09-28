@@ -147,7 +147,7 @@ class DenseNet(nn.Module):
         self.features = [('conv1',
                           nn.Conv3d(n_input_channels,
                                     num_init_features,
-                                    kernel_size=(conv1_t_size, 3, 3),
+                                    kernel_size=(conv1_t_size, 7, 7),
                                     stride=(conv1_t_stride, 2, 2),
                                     padding=(conv1_t_size // 2, 3, 3),
                                     bias=False)),
